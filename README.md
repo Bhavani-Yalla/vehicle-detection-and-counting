@@ -23,7 +23,7 @@ A real-time Vehicle Detection and Counting project built using Python, OpenCV, Y
 ## 📂 Project Files
 
 - `vehicle_detection.py` - Main Python program
-- `road.mp4` - Input video (not uploaded to GitHub)
+- `road.mp4` - Input video (not included in the repository; add your own video)
 - `yolo11s.pt` - YOLO model (downloaded automatically if needed)
 
 ## ▶️ How to Run
